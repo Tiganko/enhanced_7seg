@@ -1,0 +1,118 @@
+body{
+	background-color: black;
+	font-family: monospace;
+	font-size: 24pt;
+}
+
+#overall{
+	padding: 1%;
+	width: 90%;
+	margin: auto;
+	display: flex;
+	justify-content: center;
+
+}
+
+#d0{
+	width: 110px;
+	justify-content: center;
+	margin: 10px;
+}
+
+#d1{
+	width: 110px;
+	justify-content: center;
+	margin: 10px;
+}
+
+#d2{
+	width: 110px;
+	justify-content: center;
+	margin: 10px;
+}
+
+#d3{
+	width: 110px;
+	justify-content: center;
+	margin: 10px;
+}
+
+#d4{
+	width: 110px;
+	justify-content: center;
+	margin: 10px;
+}
+
+#d5{
+	width: 110px;
+	justify-content: center;
+	margin: 10px;
+}
+
+#d6{
+	width: 110px;
+	justify-content: center;
+	margin: 10px;
+}
+
+#d7{
+	width: 110px;
+	justify-content: center;
+	margin: 10px;
+}
+
+.hor{
+	margin: auto;
+	width: 85px;
+	height: 10px;
+	background-color: rgb(128, 0, 0, 0.25);
+	border-radius: 5px;
+}
+
+.ver{
+	width: 10px;
+	height: 85px;
+	background-color: rgb(128, 0, 0, 0.25);
+	border-radius: 5px;
+}
+
+.two{
+	display: flex;
+	width: 100%;
+}
+
+#c {
+	margin-left: 85%;
+}
+
+#f {
+	margin-left: 85%;
+}
+
+.colon{
+	width: 20px;
+	margin: 10px;
+}
+
+.p {
+ 	background: rgb(64, 0, 0, 0.5);
+ 	width: 10px;
+ 	height: 10px;
+ 	border-radius: 2px;
+ 	margin: auto;
+ 	margin-top: 60px;
+
+ }
+
+ .p0 {
+ 	background: rgb(255, 0, 0, 1.0);
+ 	width: 10px;
+ 	height: 10px;
+ 	border-radius: 2px;
+ 	margin: auto;
+ 	margin-top: 60px;
+ }
+
+.ON{
+	background-color: red;
+}
